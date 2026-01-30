@@ -76,12 +76,12 @@ I like keeping things simple and usable. <br>
 
 ### <font color="#00FF66">:) What I’m Working On</font>
 
-| <font color="#00FF66">Venture</font> | <font color="#00FF66">Description</font> | <font color="#00FF66">Status</font> | <font color="#00FF66">CTA</font> |
-|---------|-------------|--------|-----|
-| **[Elysium Designs](https://elysiumdesigns.in)** | Premium digital agency crafting world-class digital experiences—web, app, branding, and motion. | *Scaling* | [Get the Elysium Effect](https://elysiumdesigns.in) |
-| **[Sarvagya AI](https://axiv.in)** | The ultimate AI ecosystem empowering students & creators with learning tools and automation. | *Active Development* | [Try Sarv](https://axiv.in) |
-| **[DropHaus](https://drophaus.in)** | A library of ready-to-use design components and templates for faster product building. | *Active Development* | [Explore the Library](https://drophaus.in) |
-| **Next Level** | A platform to elevate personal brands, skills, and career growth opportunities. | *Vision Phase* | **Coming Soon** |
+| <font color="#00FF66">Productse</font> | <font color="#00FF66">Description</font> | <font color="#00FF66">Status</font> |
+|---------|-------------|--------|
+| **[Elysium Designs](https://elysiumdesigns.in)** | Premium digital agency crafting world-class digital experiences—web, app, branding, and motion. | *Scaling* |
+| **[Sarvagya AI](https://axiv.in)** | The ultimate AI ecosystem empowering students & creators with learning tools and automation. | *Active Development* |
+| **[DropHaus](https://drophaus.in)** | A library of ready-to-use design components and templates for faster product building. | *Active Development* |
+| **Next Level** | A platform to elevate personal brands, skills, and career growth opportunities. | *Vision Phase* |
 
 ### <font color="#00FF66">:) Global Impact & Velocity</font>
 
