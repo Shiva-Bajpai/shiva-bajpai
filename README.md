@@ -72,12 +72,12 @@ I like keeping things simple and usable. <br>
 ### <font color="#00FF66">🌐 Connect with me</font>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shiva-bajpai"><b><font color="#0A66C2">LinkedIn</font></b></a> • 
+  <a href="https://www.linkedin.com/in/shiva-bajpai-sb06/"><b><font color="#0A66C2">LinkedIn</font></b></a> • 
   <a href="https://peerlist.io/shivabajpai"><b><font color="#00AAFF">Peerlist</font></b></a> • 
-  <a href="https://github.com/shivabajpai"><b><font color="#000000">GitHub</font></b></a> • 
-  <a href="https://leetcode.com/shiva_bajpai"><b><font color="#FFA116">LeetCode</font></b></a> • 
+  <a href="https://github.com/shiva-bajpai"><b><font color="#000000">GitHub</font></b></a> • 
+  <a href="https://leetcode.com/sb__codes"><b><font color="#FFA116">LeetCode</font></b></a> • 
   <a href="https://behance.net/shivabajpai"><b><font color="#1769FF">Behance</font></b></a> • 
-  <a href="https://instagram.com/shiva_bajpai"><b><font color="#E4405F">Instagram</font></b></a> • 
+  <a href="https://instagram.com/_shiva__bajpai_"><b><font color="#E4405F">Instagram</font></b></a> • 
   <a href="https://dribbble.com/shivabajpai"><b><font color="#EA4C89">Dribbble</font></b></a>
 </p>
 
