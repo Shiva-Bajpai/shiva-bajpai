@@ -60,7 +60,7 @@ I like keeping things simple and usable. <br>
 
 ---
 
-### <font color="#00FF66">The Showcase ⚡️</font>
+### <font color="#00FF66">:) The Showcase ⚡️</font>
 
 <p align="center">
   <table align="center" border="0" cellspacing="15">
@@ -85,7 +85,7 @@ I like keeping things simple and usable. <br>
 
 ---
 
-### <font color="#00FF66">📈 Global Impact & Velocity</font>
+### <font color="#00FF66">:) Global Impact & Velocity</font>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
@@ -98,7 +98,7 @@ I like keeping things simple and usable. <br>
 
 ---
 
-### <font color="#00FF66">🌐 Connect with me</font>
+### <font color="#00FF66">:) Connect with me</font>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiva-bajpai-sb06/"><b><font color="#0A66C2">LinkedIn</font></b></a> • 
