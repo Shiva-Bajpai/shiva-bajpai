@@ -4,9 +4,9 @@
 </p>
 
 <!-- Name -->
-<h1 align="center" style="font-family: serif;">
-  Shiva Bajpai
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+Bold&weight=700&size=48&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&width=600&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+</p>
 
 <!-- Roles -->
 <p align="center">
