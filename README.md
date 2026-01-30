@@ -79,11 +79,6 @@ I like keeping things simple and usable. <br>
 ---
 
 <p align="center">
-  <i>"First do it. Then do it right. Then do it better."</i>
-  <br /><br />
-  <a href="https://github.com/shivabajpai?tab=repositories"><b>Explore the Repository Graveyard →</b></a>
-</p>
-
-<p align="center">
-  still building :)
+  [still building](shivabajpai.in)
+  
 </p>
