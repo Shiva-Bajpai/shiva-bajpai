@@ -68,7 +68,7 @@ I like keeping things simple and usable. <br>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sb__codes?ext=heatmap&theme=dark" alt="LeetCode Heatmap" height="150" />
+  <img src="https://leetcard.jacoblin.cool/sb__codes?ext=heatmap&theme=dark" alt="LeetCode Heatmap" />
 </p>
 
 ---
