@@ -60,6 +60,16 @@ I like keeping things simple and usable. <br>
 
 ---
 
+### <font color="#00FF66">🎨 Design Showcase</font>
+
+<p align="center">
+  <a href="https://shivabajpai.in/gallary">
+    <img src="./gallery_showcase.png" alt="Design Gallery" width="100%" />
+  </a>
+</p>
+
+---
+
 ### <font color="#00FF66">📈 Global Impact & Velocity</font>
 
 <p align="center">
