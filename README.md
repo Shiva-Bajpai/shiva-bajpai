@@ -25,8 +25,8 @@ I like keeping things simple and usable.
 #### **The Career Arc**
 *   **Founder @ Elysium**: Delivered 50+ global design & dev projects.
 *   **Early Execution**: Secured a full-time UI/UX role in my 2nd year of college.
-*   **Product Scale**: Built 100+ websites, apps, and SaaS products loved by users globally.
-*   **Versatility**: Full-Stack & UI/UX Designer at Logica, Axiv.in, REX, and more.
+*   **Execution with Taste**: Built 100+ websites, apps, and SaaS products loved by users globally.
+*   **Teams I've Shipped Work for**: [CGI (formerly Logica)](https://cgi.com), [Unstuck](https://unstuckstudy.com), [Spot AI](https://spot.ai), REX, [Lucent Digital](https://lucentdigital.in).
 
 #### **Technical Dominance**
 *   **LeetCode**: Top 10% | 700+ Problems Solved | Max Rating: **1748+**.
