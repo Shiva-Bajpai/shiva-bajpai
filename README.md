@@ -1,121 +1,77 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shiva-Bajpai/shiva-bajpai/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Shiva-Bajpai/shiva-bajpai/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Name -->
+<!-- Name & Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+Bold&weight=700&size=48&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&width=600&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&width=600&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+  <br />
+  <small><b>Design Engineer • Product Founder</b></small>
 </p>
 
-<!-- Roles -->
 <p align="center">
-  • Design Engineer • Product Designer •
-</p>
-
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=600&lines=I+build+products+people+love;I+design+systems+that+scale;I+ship+fast+and+iterate+hard;First+do+it%2C+then+do+it+right%2C+then+do+it+better" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Execution+with+taste.;First+do+it.+Then+do+it+right.+Then+do+it+better." />
 </p>
 
 ---
 
-## 👋 Hey, I’m Shiva
+### ✦ The Pulse
+I am a **senior product builder** dedicated to the craft of shipping. My work lives at the intersection of **design, engineering, and strategy**. I don't just build features; I architect experiences that feel right and scale effortlessly.
 
-I’m a **senior product builder** who blends **design, engineering, and strategy** to ship real products — not just pretty screens.
-
-I’ve worked with **startups, global teams, and founders** to design & build products that users love and businesses scale on.  
-From **UI/UX → Full-Stack → AI**, I focus on one thing: **execution with taste**.
+> **Current Focus:** Scaling Sarvagya AI & refining global web experiences via Elysium.
 
 ---
 
-## 🚀 See What I’ve Achieved
+### 🚀 Performance & Milestones
 
-### 🏆 Career Wins
-- Secured a **full-time UI/UX Designer role in my 2nd year of college**
-- Delivered **50+ design & dev projects globally** via my agency **Elysium**
-- Landed **multiple internships in my 1st year**
-- Worked as **Full-Stack & UI/UX Designer** at  
-  **Logica, Axiv.in, REX, WebWorks & ElementalHavoc**
-- Designed & built **100+ websites, apps, games & SaaS products**
+#### **The Career Arc**
+*   **Founder @ Elysium**: Delivered 50+ global design & dev projects.
+*   **Early Execution**: Secured a full-time UI/UX role in my 2nd year of college.
+*   **Product Scale**: Built 100+ websites, apps, and SaaS products loved by users globally.
+*   **Versatility**: Full-Stack & UI/UX Designer at Logica, Axiv.in, REX, and more.
 
----
-
-### 💻 Code, Contribute & Lead
-- 🧠 **Top 10% on LeetCode**  
-  → 700+ problems solved  
-  → Max Rating: **1748+**
-- 🌍 Open-source contributor at  
-  **CNCF, GSSoC, SWoC, JGEC & Hacktoberfest (’23, ’24)**
-- 🏅 **27th rank** in *Ninja SlayGround 2.0* (national competition)
-- 🤝 Mentored peers in **GSSoC & Hacktoberfest**
+#### **Technical Dominance**
+*   **LeetCode**: Top 10% | 700+ Problems Solved | Max Rating: **1748+**.
+*   **National Rank**: 27th in Ninja SlayGround 2.0 (National Competition).
+*   **Open Source**: Contributor to CNCF, GSSoC, SWoC, JGEC & Hacktoberfest.
+*   **Community**: Mentored across GSSoC & Hacktoberfest, fostering the next wave of builders.
 
 ---
 
-### 🌎 Global Recognition
-- 🎓 **OXML’24 Summer Student** — Oxford University (Generative AI)
-- 🌐 **Top 100 Students Globally** — HPAIR’24 (Harvard University)
-- 🚀 **Next Level** backed by **XartUp Fellowship**
-- 👥 Active member of:
-  - Google Campus Ambassador  
-  - E-Cell IIT Bombay  
-  - Techfest IIT Bombay  
-  - Coding Ninjas  
-  - ALiAS  
-  - Internshala  
-  - Zuno  
-  - Google Crowdsource  
+### � Vision & Global Footprint
+*   **Oxford University**: OXML’24 Summer Student (Mastering Generative AI).
+*   **Harvard University**: Top 100 Students Globally | HPAIR’24.
+*   **XartUp Fellow**: 'Next-Level' backed for visionary startup growth.
+*   **Leadership**: Google Campus Ambassador, E-Cell IIT Bombay, Techfest IIT Bombay.
 
 ---
 
-## 🛠️ What I’m Building
+### 🛠️ Current Ventures
 
-### 1️⃣ Sarvagya AI  
-> A **one-stop AI platform** with every tool a **student, developer & designer** will ever need.
-
-🔗 Coming soon
-
----
-
-### 2️⃣ Elysium Designs  
-> A **boutique design & dev agency** crafting high-quality digital experiences worldwide.
-
-🔗 Coming soon
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **Sarvagya AI** | The ultimate AI ecosystem for students & creators. | *Active Development* |
+| **Elysium Designs** | Premium digital agency crafting world-class experiences. | *Scaling* |
+| **Next Level** | Elevating personal brands and career growth. | *Vision Phase* |
 
 ---
 
-### 3️⃣ Next Level  
-> Helping people elevate their **personal brand, mindset & career growth**.
-
-🔗 Coming soon
-
----
-
-## 📊 Builder Stats (Because Why Not)
+### � Global Impact & Velocity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Bajpai&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="150" />
 </p>
 
 ---
 
-## 🧠 Philosophy
-
-> **First do it.  
-> Then do it right.  
-> Then do it better.**
-
----
+<p align="center">
+  <i>"First do it. Then do it right. Then do it better."</i>
+  <br /><br />
+  <a href="https://github.com/shivabajpai?tab=repositories"><b>Explore the Repository Graveyard →</b></a>
+</p>
 
 <p align="center">
-  Thanks for stopping by 👋  
-  Let’s build something legendary.
+  Built with ❤️ by Antigravity
 </p>
