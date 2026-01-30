@@ -63,7 +63,7 @@ I like keeping things simple and usable. <br>
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sb__codes&theme=dark" height="150" />
+  <img src="https://leetcard.jacoblin.cool/sb__codes?theme=dark" height="150" alt="LeetCode Stats" />
 </p>
 
 ---
