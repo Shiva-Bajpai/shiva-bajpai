@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=I+am+a+founder;I+am+a+designer;I+am+a+developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=I+am+a+Founder+:);I+am+a+Designer+:);I+am+a+Developer+:)" />
 </p>
 
 ---
@@ -86,5 +86,5 @@ I like keeping things simple and usable. <br>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shiva-Bajpai&color=00FF66&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shiva-Bajpai&color=00FF66&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
