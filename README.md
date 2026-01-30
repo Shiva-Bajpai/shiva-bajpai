@@ -66,18 +66,18 @@ I like keeping things simple and usable. <br>
   <table align="center" border="0" cellspacing="15">
     <tr>
       <td width="50%" align="center">
-        <a href="https://shivabajpai.in/codes"><img src="./grid_code.png" alt="Code" width="100%" /></a>
+        <a href="https://shivabajpai.in/codes"><img src="./grid_code_flat.png" alt="Code" width="100%" /></a>
       </td>
       <td width="50%" align="center">
-        <a href="https://shivabajpai.in/designs"><img src="./grid_design.png" alt="Design" width="100%" /></a>
+        <a href="https://shivabajpai.in/designs"><img src="./grid_design_flat.png" alt="Design" width="100%" /></a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://shivabajpai.in/gallary"><img src="./grid_gallery.png" alt="Gallery" width="100%" /></a>
+        <a href="https://shivabajpai.in/gallary"><img src="./grid_gallery_flat.png" alt="Gallery" width="100%" /></a>
       </td>
       <td width="50%" align="center">
-        <a href="https://shivabajpai.in/writing"><img src="./grid_writing.png" alt="Writing" width="100%" /></a>
+        <a href="https://shivabajpai.in/writing"><img src="./grid_writing_flat.png" alt="Writing" width="100%" /></a>
       </td>
     </tr>
   </table>

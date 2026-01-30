@@ -67,10 +67,10 @@ def process_gallery_image(image_path, output_path, text="Explore Now", font_path
 
 if __name__ == "__main__":
     tasks = [
-        ("raw_code.png", "grid_code.png", "Code"),
-        ("raw_design.png", "grid_design.png", "Design"),
-        ("gallery_showcase_2.png", "grid_gallery.png", "Gallery"),
-        ("raw_writing.png", "grid_writing.png", "Writing")
+        ("raw_code.png", "grid_code_flat.png", "Code"),
+        ("raw_design.png", "grid_design_flat.png", "Design"),
+        ("gallery_showcase_2.png", "grid_gallery_flat.png", "Gallery"),
+        ("raw_writing.png", "grid_writing_flat.png", "Writing")
     ]
     
     for source, output, label in tasks:
