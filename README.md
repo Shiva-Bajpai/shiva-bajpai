@@ -1,6 +1,7 @@
 <!-- Name & Title -->
-<h1 align="center" style="font-family: serif;">Shiva Bajpai</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=5000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+  <br />
   <small><b>Design Engineer • Product Founder</b></small>
 </p>
 
