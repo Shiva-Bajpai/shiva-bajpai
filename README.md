@@ -67,13 +67,13 @@ I like keeping things simple and usable. <br>
 ### <font color="#00FF66">🌐 Connect with me</font>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shiva-bajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=0A66C2&center=true&vCenter=true&width=100&lines=LinkedIn" alt="LinkedIn" /></a>
-  <a href="https://peerlist.io/shivabajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=00AAFF&center=true&vCenter=true&width=100&lines=Peerlist" alt="Peerlist" /></a>
-  <a href="https://github.com/shivabajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=000000&center=true&vCenter=true&width=80&lines=GitHub" alt="GitHub" /></a>
-  <a href="https://leetcode.com/shiva_bajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=FFA116&center=true&vCenter=true&width=110&lines=LeetCode" alt="LeetCode" /></a>
-  <a href="https://behance.net/shivabajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=1769FF&center=true&vCenter=true&width=100&lines=Behance" alt="Behance" /></a>
-  <a href="https://instagram.com/shiva_bajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=E4405F&center=true&vCenter=true&width=120&lines=Instagram" alt="Instagram" /></a>
-  <a href="https://dribbble.com/shivabajpai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=1&pause=0&color=EA4C89&center=true&vCenter=true&width=100&lines=Dribbble" alt="Dribbble" /></a>
+  <a href="https://linkedin.com/in/shiva-bajpai"><b><font color="#0A66C2">LinkedIn</font></b></a> • 
+  <a href="https://peerlist.io/shivabajpai"><b><font color="#00AAFF">Peerlist</font></b></a> • 
+  <a href="https://github.com/shivabajpai"><b><font color="#000000">GitHub</font></b></a> • 
+  <a href="https://leetcode.com/shiva_bajpai"><b><font color="#FFA116">LeetCode</font></b></a> • 
+  <a href="https://behance.net/shivabajpai"><b><font color="#1769FF">Behance</font></b></a> • 
+  <a href="https://instagram.com/shiva_bajpai"><b><font color="#E4405F">Instagram</font></b></a> • 
+  <a href="https://dribbble.com/shivabajpai"><b><font color="#EA4C89">Dribbble</font></b></a>
 </p>
 
 ---
