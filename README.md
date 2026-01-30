@@ -64,7 +64,9 @@ I like keeping things simple and usable. <br>
 
 <p align="center">
   <a href="https://shivabajpai.in/gallary">
-    <img src="./gallery_showcase.png" alt="Design Gallery" width="100%" />
+    <img src="./gallery_showcase.png" alt="Design Gallery 1" width="100%" />
+    <br />
+    <img src="./gallery_showcase_2.png" alt="Design Gallery 2" width="100%" />
   </a>
 </p>
 
