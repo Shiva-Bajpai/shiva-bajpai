@@ -57,14 +57,14 @@ I like keeping things simple and usable. <br>
 
 ### <font color="#00FF66">📈 Global Impact & Velocity</font>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sb__codes?ext=heatmap&theme=dark" alt="LeetCode Heatmap" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="165" />
+  
+  <br/><br/>
+  
+  <img src="https://leetcard.jacoblin.cool/sb__codes?ext=heatmap&theme=dark" width="85%" alt="LeetCode Heatmap" />
+</div>
 
 ---
 
