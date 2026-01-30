@@ -101,7 +101,15 @@ def process_gallery_image(image_path, output_path, text="Explore Now", font_path
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    # Ensure source image exists, using the original clean screenshot
-    source = "gallery_showcase_2.png" 
-    output = "gallery_showcase_premium.png"
-    process_gallery_image(source, output)
+    tasks = [
+        ("raw_code.png", "grid_code.png", "Code"),
+        ("raw_design.png", "grid_design.png", "Design"),
+        ("gallery_showcase_2.png", "grid_gallery.png", "Gallery"),
+        ("raw_writing.png", "grid_writing.png", "Writing")
+    ]
+    
+    for source, output, label in tasks:
+        if os.path.exists(source):
+            process_gallery_image(source, output, text=label)
+        else:
+            print(f"Warning: Source image {source} not found.")

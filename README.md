@@ -63,9 +63,24 @@ I like keeping things simple and usable. <br>
 ### <font color="#00FF66">Design Showcase ⚡️</font>
 
 <p align="center">
-  <a href="https://shivabajpai.in/gallary">
-    <img src="./gallery_showcase_premium.png" alt="Design Gallery" width="100%" />
-  </a>
+  <table align="center" border="0" cellspacing="15">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://shivabajpai.in/"><img src="./grid_code.png" alt="Code" width="100%" /></a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://shivabajpai.in/gallary"><img src="./grid_design.png" alt="Design" width="100%" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://shivabajpai.in/gallary"><img src="./grid_gallery.png" alt="Gallery" width="100%" /></a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://shivabajpai.in/"><img src="./grid_writing.png" alt="Writing" width="100%" /></a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
