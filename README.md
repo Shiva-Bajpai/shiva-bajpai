@@ -1,12 +1,7 @@
 <!-- Name & Title -->
+<h1 align="center" style="font-family: serif;">Shiva Bajpai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=5000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
-  <br />
-  <small><b>Design Engineer • Product Founder</b></small>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Execution+with+taste.;First+do+it.+Then+do+it+right.+Then+do+it+better." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Founder+%E2%80%A2+Designer+%E2%80%A2+Engineer;Design+Engineer;Product+Designer" alt="Roles" />
 </p>
 
 ---
