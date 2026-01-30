@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=1&pause=0&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=100000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
 </p>
 
 <p align="center">
