@@ -74,7 +74,7 @@ I like keeping things simple and usable. <br>
 
 ---
 
-### <font color="#00FF66">:) Current Ventures</font>
+### <font color="#00FF66">:) What I’m Working On</font>
 
 | <font color="#00FF66">Venture</font> | <font color="#00FF66">Description</font> | <font color="#00FF66">Status</font> | <font color="#00FF66">CTA</font> |
 |---------|-------------|--------|-----|
