@@ -67,13 +67,13 @@ I like keeping things simple and usable. <br>
 ### <font color="#00FF66">🌐 Connect with me</font>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shiva-bajpai"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://peerlist.io/shivabajpai"><img src="https://img.shields.io/badge/Peerlist-%2300AAFF.svg?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
-  <a href="https://github.com/shivabajpai"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/shiva_bajpai"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://behance.net/shivabajpai"><img src="https://img.shields.io/badge/Behance-%231769FF.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://instagram.com/shiva_bajpai"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://dribbble.com/shivabajpai"><img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  <a href="https://linkedin.com/in/shiva-bajpai"><b><font color="#0A66C2">LinkedIn</font></b></a> • 
+  <a href="https://peerlist.io/shivabajpai"><b><font color="#00AAFF">Peerlist</font></b></a> • 
+  <a href="https://github.com/shivabajpai"><b><font color="#000000">GitHub</font></b></a> • 
+  <a href="https://leetcode.com/shiva_bajpai"><b><font color="#FFA116">LeetCode</font></b></a> • 
+  <a href="https://behance.net/shivabajpai"><b><font color="#1769FF">Behance</font></b></a> • 
+  <a href="https://instagram.com/shiva_bajpai"><b><font color="#E4405F">Instagram</font></b></a> • 
+  <a href="https://dribbble.com/shivabajpai"><b><font color="#EA4C89">Dribbble</font></b></a>
 </p>
 
 ---
