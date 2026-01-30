@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=100000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=500&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=I+am+a+Founder+:);I+am+a+Designer+:);I+am+a+Developer+:)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=#f43914ff&center=true&vCenter=true&width=800&lines=I+am+a+Founder+:);I+am+a+Designer+:);I+am+a+Developer+:)" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ I build products. Mostly web things. <br>
 I design them, write the code, and try to make sure they don’t break as they grow. <br>
 I like keeping things simple and usable. <br>
 
-> **Right now:** Working on <font color="#00FF66">[Sarvagya AI](https://axiv.in)</font> to build an AI powerhouse and building premium web interfaces through <font color="#00FF66">[Elysium](https://elysiumdesigns.in)</font>.
+> **Right now:** Working on <font color="#f43914ff">[Sarvagya AI](https://axiv.in)</font> to build an AI powerhouse and building premium web interfaces through <font color="#00FF66">[Elysium](https://elysiumdesigns.in)</font>.
 
 ---
 
