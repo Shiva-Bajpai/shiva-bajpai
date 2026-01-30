@@ -1,8 +1,5 @@
 <!-- Name & Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=5000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
-  <br />
-</p>
+<h1 align="center">Shiva Bajpai</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=I+am+a+Founder+:);I+am+a+Designer+:);I+am+a+Developer+:)" />
