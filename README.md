@@ -1,59 +1,79 @@
 <!-- Name & Title -->
-<h1 align="center" style="font-family: serif;">Shiva Bajpai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Founder+%E2%80%A2+Designer+%E2%80%A2+Engineer;Design+Engineer;Product+Designer" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=5000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
+  <br />
+  <small><b>Founder • Designer • Engineer</b></small>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Execution+with+taste.;First+do+it.+Then+do+it+right.+Then+do+it+better." />
 </p>
 
 ---
 
-### ✦ The Pulse
-I build products. Mostly web things.
-I design them, write the code, and try to make sure they don’t break as they grow.
-I like keeping things simple and usable.
+### <font color="#00FF66">✦ The Pulse</font>
+I build products. Mostly web things. <br>
+I design them, write the code, and try to make sure they don’t break as they grow. <br>
+I like keeping things simple and usable. <br>
 
-> **Right now:** Working on [Sarvagya AI](https://axiv.in) to build an AI powerhouse and building premium web interfaces through [Elysium](https://elysiumdesigns.in).
-
----
-
-### 🚀 Performance & Milestones
-
-#### **The Career Arc**
-*   **Founder @ Elysium**: Delivered 50+ global design & dev projects.
-*   **Early Execution**: Secured a full-time UI/UX role in my 2nd year of college.
-*   **Execution with Taste**: Built 100+ websites, apps, and SaaS products loved by users globally.
-*   **Teams I've Shipped Work for**: [CGI (formerly Logica)](https://cgi.com), [Unstuck](https://unstuckstudy.com), [Spot AI](https://spot.ai), REX, [Lucent Digital](https://lucentdigital.in).
-
-#### **Technical Dominance**
-*   **LeetCode**: Top 10% | 700+ Problems Solved | Max Rating: **1748+**.
-*   **National Rank**: 27th in Ninja SlayGround 2.0 (National Competition).
-*   **Open Source**: Contributor to CNCF, GSSoC, SWoC, JGEC & Hacktoberfest.
-*   **Community**: Mentored across GSSoC & Hacktoberfest, fostering the next wave of builders.
+> **Right now:** Working on <font color="#00FF66">[Sarvagya AI](https://axiv.in)</font> to build an AI powerhouse and building premium web interfaces through <font color="#00FF66">[Elysium](https://elysiumdesigns.in)</font>.
 
 ---
 
-### 🌍 Vision & Global Footprint
-*   **Oxford University**: OXML’24 Summer Student (Mastering Generative AI).
-*   **Harvard University**: Top 100 Students Globally | HPAIR’24.
-*   **XartUp Fellow**: 'Next-Level' backed for visionary startup growth.
-*   **Leadership**: Google Campus Ambassador, E-Cell IIT Bombay, Techfest IIT Bombay.
+### <font color="#00FF66">Celebrate the small, they lead to the big.</font>
+
+#### <font color="#00FF66">:) The Career Arc</font>
+*   **Founder @ <font color="#00FF66">[Elysium Designs](https://elysiumdesigns.in)</font> · <font color="#00FF66">[Sarvagya AI](https://axiv.in)</font> · DropHaus · Next Level**: Mostly building. Occasionally sleeping.
+*   **Completed multiple internships and freelance projects** from the very first year of college.
+*   **Secured a full-time UI/UX role** inbound—the offer came to me, based solely on my proof of work.
+*   **Designed & Built 100+ websites, apps, and SaaS products** with my agency with great client satisfaction & loved by users globally.
+*   **Some of the teams I’ve shipped work for:** <font color="#00FF66">[CGI (formerly Logica)](https://cgi.com)</font> · <font color="#00FF66">[Unstuck](https://unstuckstudy.com/)</font> · <font color="#00FF66">[Spot AI](https://www.spot.ai/)</font> · **REX** · <font color="#00FF66">[Lucent Digital](https://lucentdigital.in/)</font> · <font color="#00FF66">[Acumenn](https://acumenn.io/)</font> · <font color="#00FF66">[Quizard AI](https://usequizard.com/)</font> · <font color="#00FF66">[a0.dev](http://a0.dev/)</font> · **BB's Backing** · **Value Properties** 
+
+#### <font color="#00FF66">:) Technical Dominance</font>
+*   **Top 15% on LeetCode**: | **750+ Problems Solved** | **Max Rating: 1748.**
+*   **National Rank 27th** in Ninja SlayGround 2.0 (National Competition).
+*   **Contributed to CNCF, GSSoC, SWoC, JGEC & Hacktoberfest'24,'25.**
+*   **Mentored across GSSoC & Hacktoberfest,** fostering the next wave of builders.
 
 ---
 
-### 🛠️ Current Ventures
-
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **Sarvagya AI** | The ultimate AI ecosystem for students & creators. | *Active Development* |
-| **Elysium Designs** | Premium digital agency crafting world-class experiences. | *Scaling* |
-| **Next Level** | Elevating personal brands and career growth. | *Vision Phase* |
+### <font color="#00FF66">:) Vision & Global Footprint</font>
+*   **OXML’24 Summer Student** (Mastering Generative AI).
+*   **Got selected as Top 100 Students Globally** for HPAIR’24 by Harvard University.
+*   **Got Selected as Google Campus Ambassador** to lead the developers group in the college.
 
 ---
 
-### 📈 Global Impact & Velocity
+### <font color="#00FF66">:) Current Ventures</font>
+
+| <font color="#00FF66">Venture</font> | <font color="#00FF66">Description</font> | <font color="#00FF66">Status</font> | <font color="#00FF66">CTA</font> |
+|---------|-------------|--------|-----|
+| **[Elysium Designs](https://elysiumdesigns.in)** | Premium digital agency crafting world-class digital experiences—web, app, branding, and motion. | *Scaling* | [Get the Elysium Effect](https://elysiumdesigns.in) |
+| **[Sarvagya AI](https://axiv.in)** | The ultimate AI ecosystem empowering students & creators with learning tools and automation. | *Active Development* | [Try Sarv](https://axiv.in) |
+| **[DropHaus](https://drophaus.in)** | A library of ready-to-use design components and templates for faster product building. | *Active Development* | [Explore the Library](https://drophaus.in) |
+| **Next Level** | A platform to elevate personal brands, skills, and career growth opportunities. | *Vision Phase* | **Coming Soon** |
+
+---
+
+### <font color="#00FF66">📈 Global Impact & Velocity</font>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="150" />
+</p>
+
+---
+
+### <font color="#00FF66">🌐 Connect with me</font>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shiva-bajpai"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://peerlist.io/shivabajpai"><img src="https://img.shields.io/badge/Peerlist-%2300AAFF.svg?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
+  <a href="https://github.com/shivabajpai"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/shiva_bajpai"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://behance.net/shivabajpai"><img src="https://img.shields.io/badge/Behance-%231769FF.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://instagram.com/shiva_bajpai"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://dribbble.com/shivabajpai"><img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
 </p>
 
 ---
@@ -65,5 +85,5 @@ I like keeping things simple and usable.
 </p>
 
 <p align="center">
-  Built with ❤️ by Antigravity
+  still building :)
 </p>
