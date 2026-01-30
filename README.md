@@ -2,11 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=5000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
   <br />
-  <small><b>Founder • Designer • Engineer</b></small>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Execution+with+taste.;First+do+it.+Then+do+it+right.+Then+do+it+better." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Founder+•+Designer+•+Engineer;Execution+with+taste." />
 </p>
 
 ---
@@ -57,14 +56,14 @@ I like keeping things simple and usable. <br>
 
 ### <font color="#00FF66">📈 Global Impact & Velocity</font>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="165" />
-  
-  <br/><br/>
-  
-  <img src="https://leetcard.jacoblin.cool/sb__codes?ext=heatmap&theme=dark" width="85%" alt="LeetCode Heatmap" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sb__codes?ext=heatmap&theme=dark" alt="LeetCode Heatmap" />
+</p>
 
 ---
 
