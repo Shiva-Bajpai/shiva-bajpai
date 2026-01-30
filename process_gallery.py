@@ -14,46 +14,20 @@ def add_round_corners(im, rad):
     im.putalpha(alpha)
     return im
 
-def add_vignette(im, opacity=180):
-    # Create a gradient mask
-    width, height = im.size
-    # Create a radial gradient from center
-    # This is a bit complex in pure PIL without numpy, so we'll approximate with a strong border overlay
-    
-    overlay = Image.new("RGBA", im.size, (0, 0, 0, 0))
-    draw = ImageDraw.Draw(overlay)
-    
-    # Base tint (much lighter)
-    draw.rectangle([0, 0, width, height], fill=(0, 0, 0, 30))
-    
-    # Vignette simulation
-    gradient = Image.new('L', (width, height), 0)
-    for y in range(height):
-        for x in range(width):
-            # Distance from center normalized
-            dx = (x - width/2) / (width/2)
-            dy = (y - height/2) / (height/2)
-            dist = (dx*dx + dy*dy)**0.5
-            
-            # Much subtler vignette
-            # Start near 0 at center, increase to ~120 at corners
-            intensity = int(10 + (100) * min(dist, 1.2)) 
-            gradient.putpixel((x, y), intensity)
-            
-    # Apply this gradient as the alpha channel of a black image
-    black_overlay = Image.new("RGBA", im.size, (0, 0, 0, 0))
-    black_overlay.putalpha(gradient)
-    
+def add_tint(im, opacity=100):
+    # Create a uniform black overlay
+    overlay = Image.new("RGBA", im.size, (0, 0, 0, opacity))
     # Composite
-    return Image.alpha_composite(im, black_overlay)
+    base = im.convert("RGBA")
+    return Image.alpha_composite(base, overlay)
 
 def process_gallery_image(image_path, output_path, text="Explore Now", font_path="/System/Library/Fonts/Supplemental/Didot.ttc"):
     try:
         # Open and convert
         base = Image.open(image_path).convert("RGBA")
         
-        # 1. Add Vignette/Overlay
-        base = add_vignette(base)
+        # 1. Add Tint
+        base = add_tint(base, opacity=90) # Adjust opacity for "black tint" feel
         
         # 2. Add Text
         draw = ImageDraw.Draw(base)
