@@ -1,12 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shiva-Bajpai/shiva-bajpai/main/banner.png" alt="Banner" width="100%" />
-</p>
-
 <!-- Name & Title -->
+<h1 align="center" style="font-family: serif;">Shiva Bajpai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&width=600&lines=Shiva+Bajpai" alt="Shiva Bajpai" />
-  <br />
   <small><b>Design Engineer • Product Founder</b></small>
 </p>
 
@@ -39,7 +33,7 @@ I am a **senior product builder** dedicated to the craft of shipping. My work li
 
 ---
 
-### � Vision & Global Footprint
+### 🌍 Vision & Global Footprint
 *   **Oxford University**: OXML’24 Summer Student (Mastering Generative AI).
 *   **Harvard University**: Top 100 Students Globally | HPAIR’24.
 *   **XartUp Fellow**: 'Next-Level' backed for visionary startup growth.
@@ -57,7 +51,7 @@ I am a **senior product builder** dedicated to the craft of shipping. My work li
 
 ---
 
-### � Global Impact & Velocity
+### 📈 Global Impact & Velocity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
