@@ -12,9 +12,11 @@
 ---
 
 ### ✦ The Pulse
-I am a **senior product builder** dedicated to the craft of shipping. My work lives at the intersection of **design, engineering, and strategy**. I don't just build features; I architect experiences that feel right and scale effortlessly.
+I build products. Mostly web things.
+I design them, write the code, and try to make sure they don’t break as they grow.
+I like keeping things simple and usable.
 
-> **Current Focus:** Scaling Sarvagya AI & refining global web experiences via Elysium.
+> **Right now:** Working on [Sarvagya AI](https://axiv.in) to build an AI powerhouse and building premium web interfaces through [Elysium](https://elysiumdesigns.in).
 
 ---
 
