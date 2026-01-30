@@ -23,19 +23,10 @@ def add_vignette(im, opacity=180):
     overlay = Image.new("RGBA", im.size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(overlay)
     
-    # Base tint (overall darker)
-    draw.rectangle([0, 0, width, height], fill=(0, 0, 0, 100))
+    # Base tint (much lighter)
+    draw.rectangle([0, 0, width, height], fill=(0, 0, 0, 30))
     
-    # Vignette simulation: draw nested rectangles with increasing opacity towards edge? 
-    # Or just use a simple radial gradient image
-    
-    # Let's create a radial gradient manually
-    # Center (w/2, h/2) is transparent, edges are black
-    
-    # For simplicity and "premium" look, a strong uniform tint often works best with centered text, 
-    # but user asked for "borders have black tint more".
-    # Let's try a radial gradient approach using ImageChops
-    
+    # Vignette simulation
     gradient = Image.new('L', (width, height), 0)
     for y in range(height):
         for x in range(width):
@@ -43,10 +34,10 @@ def add_vignette(im, opacity=180):
             dx = (x - width/2) / (width/2)
             dy = (y - height/2) / (height/2)
             dist = (dx*dx + dy*dy)**0.5
-            # tint factor: 0 at center, 1 at edges. 
-            # We want center to be somewhat dark (tint 100/255) and edges very dark (240/255)
-            # intensity = base + (max - base) * dist
-            intensity = int(80 + (175) * min(dist, 1.2)) # capped
+            
+            # Much subtler vignette
+            # Start near 0 at center, increase to ~120 at corners
+            intensity = int(10 + (100) * min(dist, 1.2)) 
             gradient.putpixel((x, y), intensity)
             
     # Apply this gradient as the alpha channel of a black image
