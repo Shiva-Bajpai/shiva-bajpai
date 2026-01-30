@@ -84,3 +84,7 @@ I like keeping things simple and usable. <br>
 <p align="center">
   <a href="https://shivabajpai.in">still building :)</a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shiva-Bajpai&color=00FF66&style=flat-square" alt="Profile Views" />
+</p>
