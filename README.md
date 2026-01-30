@@ -64,7 +64,7 @@ I like keeping things simple and usable. <br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bajpai&theme=dark&hide_border=true&stroke=00FF66" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shiva-Bajpai&show_icons=true&theme=dark&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66" height="150" />
 </p>
 
 <p align="center">
