@@ -32,8 +32,8 @@ def process_gallery_image(image_path, output_path, text="Explore Now", font_path
         # 2. Add Text
         draw = ImageDraw.Draw(base)
         try:
-            # Font size: 4.5% of width - slightly bigger/bolder feel
-            font_size = int(base.size[0] * 0.045)
+            # Font size: 8% of width - significantly larger as requested
+            font_size = int(base.size[0] * 0.08)
             font = ImageFont.truetype(font_path, font_size)
             
             # Simulate Bold by drawing multiple times with offset if bold font not found
@@ -53,7 +53,7 @@ def process_gallery_image(image_path, output_path, text="Explore Now", font_path
         y = (base.size[1] - text_height) / 2
         
         # Draw text in Pure White with stroke for "Bold" effect
-        draw.text((x, y), text, font=font, fill=(255, 255, 255, 255), stroke_width=1, stroke_fill=(255, 255, 255, 255))
+        draw.text((x, y), text, font=font, fill=(255, 255, 255, 255), stroke_width=2, stroke_fill=(255, 255, 255, 255))
         
         # 3. Round Corners
         final_image = add_round_corners(base, 25)
@@ -67,10 +67,10 @@ def process_gallery_image(image_path, output_path, text="Explore Now", font_path
 
 if __name__ == "__main__":
     tasks = [
-        ("raw_code.png", "grid_code_flat.png", "Code"),
-        ("raw_design.png", "grid_design_flat.png", "Design"),
-        ("gallery_showcase_2.png", "grid_gallery_flat.png", "Gallery"),
-        ("raw_writing.png", "grid_writing_flat.png", "Writing")
+        ("raw_code.png", "grid_code_large.png", "Code"),
+        ("raw_design.png", "grid_design_large.png", "Design"),
+        ("gallery_showcase_2.png", "grid_gallery_large.png", "Gallery"),
+        ("raw_writing.png", "grid_writing_large.png", "Writing")
     ]
     
     for source, output, label in tasks:
