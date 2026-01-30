@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=#f43914ff&center=true&vCenter=true&width=800&lines=I+am+a+Founder+:);I+am+a+Designer+:);I+am+a+Developer+:)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F43914&center=true&vCenter=true&width=800&lines=I+am+a+Founder+:);I+am+a+Designer+:);I+am+a+Developer+:)" />
 </p>
 
 ---
