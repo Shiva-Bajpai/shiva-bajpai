@@ -55,7 +55,7 @@ I like keeping things simple and usable. <br>
   <table align="center" border="0" cellspacing="15">
     <tr>
       <td width="50%" align="center">
-        <a href="https://shivabajpai.in/codes"><img src="./grid_code_large.png" alt="Code" width="100%" /></a>
+        <a href="https://shivabajpai.in/labs"><img src="./grid_code_large.png" alt="Code" width="100%" /></a>
       </td>
       <td width="50%" align="center">
         <a href="https://shivabajpai.in/projects"><img src="./grid_design_large.png" alt="Design" width="100%" /></a>
